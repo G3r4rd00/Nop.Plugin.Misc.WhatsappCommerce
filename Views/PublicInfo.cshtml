@@ -1,0 +1,12 @@
+﻿@model string
+
+
+@if(!string.IsNullOrEmpty(Model))
+{
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+	<link rel="stylesheet" href="~/Plugins/Misc.WhatsappCommerce/Content/styles.css" />
+
+	<a href="https://api.whatsapp.com/send/?phone=@Model" class="whatsapp" target="_blank">
+		<i class="fa fa-whatsapp whatsapp-icon"></i>
+	</a>
+}
