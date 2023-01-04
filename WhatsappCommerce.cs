@@ -13,6 +13,7 @@ using Nop.Web.Framework.Infrastructure;
 
 namespace Nop.Plugin.Misc.WhatsappCommerce
 {     
+    //tEST
     public class WhatsappCommerce : BasePlugin, IMiscPlugin, IWidgetPlugin
     {
         private readonly IWebHelper _webHelper;
