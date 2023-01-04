@@ -62,6 +62,10 @@
     </Content>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="PackageFiles\" />
+  </ItemGroup>
+
 
   <!-- This target execute after "Build" target -->
   <Target Name="NopTarget" AfterTargets="Build">
