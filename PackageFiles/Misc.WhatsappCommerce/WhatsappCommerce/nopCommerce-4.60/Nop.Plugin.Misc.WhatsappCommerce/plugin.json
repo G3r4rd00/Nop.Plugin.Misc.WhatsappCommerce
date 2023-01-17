@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "WhatsappCommerce",
+  "SystemName": "Misc.WhatsappCommerce",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.60" ],
+  "Author": "Gerardo Tous",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.WhatsappCommerce.dll",
+  "Description": "Whatsapp comunication"
+}

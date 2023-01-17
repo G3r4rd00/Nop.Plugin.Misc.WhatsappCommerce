@@ -1,0 +1,9 @@
+﻿[
+  {
+    "Type": "Plugin",
+    "SupportedVersion": "4.60",
+    "DirectoryPath": "WhatsappCommerce/nopCommerce-4.60/Misc.WhatsappCommerce/",
+    "SystemName": "Misc.WhatsappCommerce",
+    "SourceDirectoryPath": "WhatsappCommerce/nopCommerce-4.60/Nop.Plugin.Misc.WhatsappCommerce/"
+  }
+]
