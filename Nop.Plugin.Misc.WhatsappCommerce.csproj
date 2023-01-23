@@ -18,6 +18,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="PackageFiles\**" />
+    <EmbeddedResource Remove="PackageFiles\**" />
+    <None Remove="PackageFiles\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="Content\font-awesome.min.css" />
     <None Remove="Content\styles.css" />
     <None Remove="logo.jpg" />
