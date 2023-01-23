@@ -16,3 +16,4 @@ Instrucciones de instalación:
 
 	
 https://github.com/G3r4rd00/Nop.Plugin.Misc.WhatsappCommerce
+
