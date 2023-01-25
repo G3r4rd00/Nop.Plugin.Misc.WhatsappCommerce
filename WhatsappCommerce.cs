@@ -14,7 +14,7 @@ using Nop.Web.Framework.Infrastructure;
 namespace Nop.Plugin.Misc.WhatsappCommerce
 {   
     public class WhatsappCommerce : BasePlugin, IMiscPlugin, IWidgetPlugin
-    {
+    {//test what
         private readonly IWebHelper _webHelper;
         private readonly ILocalizationService _localizationService;
         private readonly WidgetSettings _widgetSettings;
